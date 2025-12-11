@@ -23,5 +23,6 @@ Highlight Proses Data Wrangling: Tantangan teknis utama dalam proyek ini yang te
 - Data Cleaning: Menangani missing values akibat minggu libur (bye weeks) dan standarisasi tipe data.
 
 ## Cara Menjalankan (Reproducibility)
-1. Install requirements: `pip install -r requirements.txt`
-2. Jalankan notebook di folder `notebooks/final project.ipynb`
+1. Clone repository: `git clone https://github.com/keirasharinna/nfl-attendance-analysis`
+2. Install library: `pip install -r requirements.txt`
+3. Buka folder `notebooks` dan jalankan `final_project.ipynb`.
