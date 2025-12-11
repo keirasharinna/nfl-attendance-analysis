@@ -6,7 +6,7 @@ Final Project Mata Kuliah Teknik Sampling dan Data Wrangling.
 1. Keira Myeisharinna Putri Pujowinarso (50522231006)
 2. Muhammad Rayvan Guevhara Pinardhi (5052231029)
 3. Ghalib Ibrahim Zardy (5052231028)
-3. Regina Avril Putri Pribadi  (5052231021)
+4. Regina Avril Putri Pribadi  (5052231021)
 
 ## Deskripsi Proyek
 Proyek akhir ini bertujuan untuk melakukan Analisis Eksploratif (EDA) terhadap tren kehadiran penonton (attendance) pada pertandingan NFL (National Football League) selama periode tahun 2000 hingga 2019. Kami menggabungkan tiga dataset terpisah (attendance.csv, games.csv, dan standings.csv) untuk mendapatkan wawasan komprehensif mengenai faktor-faktor yang mempengaruhi minat penonton datang ke stadion.
@@ -24,5 +24,6 @@ Highlight Proses Data Wrangling: Tantangan teknis utama dalam proyek ini yang te
 
 ## Cara Menjalankan (Reproducibility)
 1. Clone repository: `git clone https://github.com/keirasharinna/nfl-attendance-analysis`
-2. Install library: `pip install -r requirements.txt`
-3. Buka folder `notebooks` dan jalankan `final_project.ipynb`.
+2. Pastikan struktur folder data sudah sesuai (data/raw/ berisi 3 file csv).
+3. Install library yang dibutuhkan: `pip install -r requirements.txt`
+4. Buka folder `notebooks` dan jalankan `final_project.ipynb`.
