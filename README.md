@@ -4,9 +4,9 @@ Final Project Mata Kuliah Teknik Sampling dan Data Wrangling.
 
 ## Anggota Kelompok
 1. Keira Myeisharinna Putri Pujowinarso (50522231006)
-2. Muhammad Rayvan Guevhara Pinardhi (5052231029)
-3. Ghalib Ibrahim Zardy (5052231028)
-4. Regina Avril Putri Pribadi  (5052231021)
+2. Regina Avril Putri Pribadi  (5052231021)
+4. Ghalib Ibrahim Zardy (5052231028)
+5. Muhammad Rayvan Guevhara Pinardhi (5052231029)
 
 ## Deskripsi Proyek
 Proyek akhir ini bertujuan untuk melakukan Analisis Eksploratif (EDA) terhadap tren kehadiran penonton (attendance) pada pertandingan NFL (National Football League) selama periode tahun 2000 hingga 2019. Kami menggabungkan tiga dataset terpisah (attendance.csv, games.csv, dan standings.csv) untuk mendapatkan wawasan komprehensif mengenai faktor-faktor yang mempengaruhi minat penonton datang ke stadion.
